@@ -52,6 +52,6 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: dev-service
+            name: app-one-service
             port:
               number: 80
