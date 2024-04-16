@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: will-app
-        image: mpatrini7/playground:v1
+        image: mpatrini7/playground:v2
         ports:
         - containerPort: 8888
 
